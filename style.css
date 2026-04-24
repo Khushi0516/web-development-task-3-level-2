@@ -25,7 +25,6 @@ body {
     margin: auto;
 }
 
-/* Navbar */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -58,7 +57,6 @@ body {
     color: #ffd54f;
 }
 
-/* Hero */
 .hero {
     min-height: 100vh;
     background:
@@ -120,7 +118,6 @@ body {
     background: #1d4ed8;
 }
 
-/* Sections */
 .section {
     padding: 80px 20px;
 }
@@ -141,7 +138,6 @@ body {
     color: #475569;
 }
 
-/* Benefits */
 .card-grid {
     margin-top: 35px;
     display: grid;
@@ -173,7 +169,6 @@ body {
     font-size: 16px;
 }
 
-/* Skills */
 .skills-box {
     margin-top: 30px;
     display: flex;
@@ -198,12 +193,10 @@ body {
     color: white;
 }
 
-/* CTA */
 .cta {
     text-align: center;
 }
 
-/* Footer */
 footer {
     background: #0f172a;
     color: white;
@@ -222,7 +215,6 @@ footer {
     color: #e2e8f0;
 }
 
-/* Responsive */
 @media (max-width: 992px) {
     .hero-content h1 {
         font-size: 40px;
